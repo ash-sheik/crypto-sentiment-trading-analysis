@@ -1,11 +1,11 @@
 # Crypto Market Sentiment and Trading Performance Analysis
 An analysis of the relationship between Crypto - Fear &amp; Greed Index and trading performance (PnL/Risk) using Python
-🌟 The Big Idea
+## 🌟 The Big Idea
 In trading, they always say "buy the dip" or "be greedy when others are fearful," but does that actually work for most people? I wanted to see if there was a real link between market emotions (the Fear & Greed Index) and how much money traders actually walk away with.
 
 I took raw trading history, combined it with daily sentiment scores, and looked for patterns in the noise.
 
-🔍 What the Data Told Me (Key Insights)
+## 🔍 What the Data Told Me (Key Insights)
 1. Greed is (Actually) Good for Profit
 It turns out that when the market is in a "Greed" phase, traders in this dataset were significantly more successful. The average profit jumped to $87.89 compared to just $50.04 during "Fear" days.
 
@@ -19,7 +19,7 @@ The data showed more trades happening during Fear, but the "quality" of those tr
 
 Panic makes us busy, not productive. We click "buy" and "sell" more often when we're anxious, but we actually make more money when we're calm and the market is trending upward.
 
-🛠️ How I Built This
+## 🛠️ How I Built This
 I kept the tech stack focused and efficient:
 
 Python (Pandas & NumPy): For the heavy lifting—cleaning the data and merging the two different datasets.
@@ -28,7 +28,7 @@ Seaborn & Matplotlib: To turn the rows of numbers into the charts you see in the
 
 Jupyter Notebook: Where all the experimentation happened.
 
-📂 What's Inside?
+## 📂 What's Inside?
 data/: https://drive.google.com/drive/folders/1_sbi4r_6SsnV-1Il6tFCqen_QEp1-ZLJ?usp=sharing 
        Both the raw files I started with and the final cleaned version.
 
@@ -36,7 +36,7 @@ notebooks/: My step-by-step logic and code.
 
 visuals/: The charts that prove the insights above.
 
-🚀 Want to see for yourself?
+## 🚀 Want to see for yourself?
 If you want to run the analysis on your own machine:
 
 Clone this repo.
