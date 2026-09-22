@@ -47,7 +47,9 @@ Open the notebook and run the cells—the charts will generate automatically!
 
 Project summary : https://docs.google.com/document/d/1l-xVouyi6Sv3hW3he6PcqSyH-DJaMqTUndb5SEiyWYI/edit?usp=sharing
 
-Author
-Ashiba B
+## 👩‍💻 Author
 
-Aspiring Data Analyst | Python | Jupyter Notebook | Power BI | Excel | SQL | Data Visualization
+**Ashiba B**  
+Data Analyst | SQL | Power BI | Excel | Python  
+
+[LinkedIn](https://www.linkedin.com/in/ashiba-data-analyst) | [Email](mailto:ashibab23@gmail.com)
