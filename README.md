@@ -8,15 +8,11 @@ I took raw trading history, combined it with daily sentiment scores, and looked 
 ## 🔍 What the Data Told Me (Key Insights)
 1. Greed is (Actually) Good for Profit
 It turns out that when the market is in a "Greed" phase, traders in this dataset were significantly more successful. The average profit jumped to $87.89 compared to just $50.04 during "Fear" days.
-
 2. Fear Makes People Do Crazy Things
 When I looked at the risk distribution (the boxplots), I saw huge "outlier" dots during Fear days.
-
 Most people trade small when they’re scared, but a few people go "all in." These are likely "revenge trades"—people trying to win back what they just lost. This leads to massive wins or (more likely) massive losses.
-
 3. We Trade More When We’re Panicked
 The data showed more trades happening during Fear, but the "quality" of those trades was lower.
-
 Panic makes us busy, not productive. We click "buy" and "sell" more often when we're anxious, but we actually make more money when we're calm and the market is trending upward.
 
 ## 🛠️ How I Built This
@@ -30,7 +26,7 @@ Jupyter Notebook: Where all the experimentation happened.
 
 ## 📂 What's Inside?
 data/: https://drive.google.com/drive/folders/1_sbi4r_6SsnV-1Il6tFCqen_QEp1-ZLJ?usp=sharing 
-       Both the raw files I started with and the final cleaned version.
+Both the raw files I started with and the final cleaned version.
 
 notebooks/: My step-by-step logic and code.
 
