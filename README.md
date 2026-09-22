@@ -15,6 +15,12 @@ Most people trade small when they’re scared, but a few people go "all in." The
 The data showed more trades happening during Fear, but the "quality" of those trades was lower.
 Panic makes us busy, not productive. We click "buy" and "sell" more often when we're anxious, but we actually make more money when we're calm and the market is trending upward.
 
+## 📊 Analysis Visuals
+
+![Crypto Trading Analysis Visual 1](Visuals/Screenshot%202026-03-06%20224328.png)
+
+![Crypto Trading Analysis Visual 2](Visuals/Screenshot%202026-03-06%20224505.png)
+
 ## 🛠️ How I Built This
 I kept the tech stack focused and efficient:
 
