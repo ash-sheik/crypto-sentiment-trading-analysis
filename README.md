@@ -24,14 +24,13 @@ Seaborn & Matplotlib: To turn the rows of numbers into the charts you see in the
 
 Jupyter Notebook: Where all the experimentation happened.
 
-## 📂 What's Inside?
-data/: https://drive.google.com/drive/folders/1_sbi4r_6SsnV-1Il6tFCqen_QEp1-ZLJ?usp=sharing 
-Both the raw files I started with and the final cleaned version.
+## 📂 Repository Contents
 
-notebooks/: My step-by-step logic and code.
-
-visuals/: The charts that prove the insights above.
-
+- `Notebook/` — Jupyter Notebook containing the complete analysis
+- `Visuals/` — Charts generated during the analysis
+- `DS_Intern_Project_Ashiba.docx` — Detailed project report
+- [Dataset Folder](https://drive.google.com/drive/folders/1_sbi4r_6SsnV-1Il6tFCqen_QEp1-ZLJ?usp=sharing) — Raw and cleaned datasets
+  
 ## 🚀 Want to see for yourself?
 If you want to run the analysis on your own machine:
 
