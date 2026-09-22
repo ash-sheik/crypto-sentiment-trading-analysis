@@ -1,4 +1,4 @@
-# Data_Science_Intern_Project
+# Crypto Market Sentiment and Trading Performance Analysis
 An analysis of the relationship between Crypto - Fear &amp; Greed Index and trading performance (PnL/Risk) using Python
 🌟 The Big Idea
 In trading, they always say "buy the dip" or "be greedy when others are fearful," but does that actually work for most people? I wanted to see if there was a real link between market emotions (the Fear & Greed Index) and how much money traders actually walk away with.
